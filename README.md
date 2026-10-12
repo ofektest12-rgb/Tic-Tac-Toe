@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 
-This repository contains python based interactive Tic-Tac-Toe game.
- asd
+This repository contains python based interactive Tic-Tac-Toe game. wiw
 ## Running Tic-Tac-Toe:
 
 ```
